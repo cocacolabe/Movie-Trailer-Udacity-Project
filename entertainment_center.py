@@ -8,7 +8,7 @@ toy_story = media.Movie(
     "Toy Story",
     "A story of a boy and his toys that come to life",
     "https://goo.gl/whcxwn",
-    "https://www.youtube.com/watch?v=vwyZH85NQC4")
+    "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
 avatar = media.Movie(
     "Avatar",
